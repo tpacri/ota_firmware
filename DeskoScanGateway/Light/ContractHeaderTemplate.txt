@@ -1,0 +1,2 @@
+{\rtf1\ansi \qc\b\fs22 Domnule director, \b0\par\qj\fs20 
+        Subsemnatul <<OCR_PrimaryName>> <<OCR_SecondaryName>> domiciliat in <<OCR_Address>>, identificat prin CI seria/nr <<OCR_DocumentNumber>> CNP <<OCR_PersonalNumber>> eliberat de <<MRZ_DocIssuer>> la data de <<GENERIC_IssueDateIso>> valabil pana la <<GENERIC_ExpiryDateIso>> }

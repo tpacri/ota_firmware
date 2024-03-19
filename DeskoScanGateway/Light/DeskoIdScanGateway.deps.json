@@ -1,0 +1,96 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0/win-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {},
+    ".NETCoreApp,Version=v7.0/win-x64": {
+      "DeskoIdScanGateway/1.1.0": {
+        "dependencies": {
+          "DDevApiDotNet": "1.11.9.0",
+          "deskoscannet": "2.5.0.0",
+          "IDCollectNet": "2.12.4.0",
+          "pagescannet": "4.20.5.0",
+          "STPadLibNet": "8.5.2.0"
+        },
+        "runtime": {
+          "DeskoIdScanGateway.dll": {}
+        }
+      },
+      "DDevApiDotNet/1.11.9.0": {
+        "runtime": {
+          "DDevApiDotNet.dll": {
+            "assemblyVersion": "1.11.9.0",
+            "fileVersion": "1.11.9.0"
+          }
+        }
+      },
+      "deskoscannet/2.5.0.0": {
+        "runtime": {
+          "deskoscannet.dll": {
+            "assemblyVersion": "2.5.0.0",
+            "fileVersion": "2.5.0.0"
+          }
+        }
+      },
+      "IDCollectNet/2.12.4.0": {
+        "runtime": {
+          "IDCollectNet.dll": {
+            "assemblyVersion": "2.12.4.0",
+            "fileVersion": "2.12.4.0"
+          }
+        }
+      },
+      "pagescannet/4.20.5.0": {
+        "runtime": {
+          "pagescannet.dll": {
+            "assemblyVersion": "4.20.5.0",
+            "fileVersion": "4.20.5.0"
+          }
+        }
+      },
+      "STPadLibNet/8.5.2.0": {
+        "runtime": {
+          "STPadLibNet.dll": {
+            "assemblyVersion": "8.5.2.0",
+            "fileVersion": "8.5.2.6"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeskoIdScanGateway/1.1.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DDevApiDotNet/1.11.9.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "deskoscannet/2.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IDCollectNet/2.12.4.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "pagescannet/4.20.5.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STPadLibNet/8.5.2.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
